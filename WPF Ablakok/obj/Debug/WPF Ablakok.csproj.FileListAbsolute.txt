@@ -1,0 +1,163 @@
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\MainWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\MainWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\App.g.cs
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+C:\Users\Boros\Google Drive\BABCSI\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\Untitled.png
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\Resources\Untitled.png
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\MainWindow.baml
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\MainWindow.g.cs
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\App.g.cs
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+D:\Users\Balázs\Desktop\WPF Ablakok\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\Resources\Untitled.png
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.baml
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.g.cs
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\App.g.cs
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+D:\Users\Balázs\Desktop\SZT\Egyéb\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Untitled.png
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\App.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.baml
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.baml
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.g.cs
+C:\Users\Boros\Google Drive\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\FPC_stats,_2007-2010.png
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Untitled.png
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\FPC_stats,_2007-2010.png
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.baml
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.baml
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.baml
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.baml
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\App.g.cs
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+C:\Users\Balázs\Desktop\Drive\Szoftvertech 2\BABCSI\Kinézet\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.baml
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.baml
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.baml
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.baml
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.baml
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\AlkalmazottWindow.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\EdzoWindow1.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\MainWindow.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\TulajdonosWindow.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\UgyfelWindow.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\App.g.cs
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\Untitled.png
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\Resources\FPC_stats,_2007-2010.png
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+C:\Users\Boros\Desktop\ablakok_ügyfél_kész\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Desktop\Osztályok kezdetleges ügyfél\ablakok v2\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Boros\Desktop\Osztályok kezdetleges ügyfél\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Boros\Desktop\Osztályok kezdetleges ügyfél\ablakok v2\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\Resources\Capture.JPG
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\Resources\CarersLogo.gif
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\Resources\Untitled.png
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\Resources\FPC_stats,_2007-2010.png
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\WPF Ablakok.exe
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\bin\Debug\WPF Ablakok.pdb
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.csprojResolveAssemblyReference.cache
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\MainWindow.baml
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\MainWindow.g.cs
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\App.g.cs
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok_MarkupCompile.cache
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.g.resources
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF_Ablakok.Properties.Resources.resources
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.csproj.GenerateResource.Cache
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\AlkalmazottWindow.baml
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\EdzoWindow1.baml
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\TulajdonosWindow.baml
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\UgyfelWindow.baml
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\AlkalmazottWindow.g.cs
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\EdzoWindow1.g.cs
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\TulajdonosWindow.g.cs
+C:\Users\Boros\Desktop\Osztalyok uj\WPF Ablakok\obj\Debug\Ablakok\UgyfelWindow.g.cs
+C:\Users\Balázs\Desktop\Drive\Egyetem\Szoftvertech 2\BABCSI\Osztályok\Osztalyok uj\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Balázs\Desktop\Drive\Egyetem\Szoftvertech 2\BABCSI\Osztályok\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Balázs\Desktop\Drive\Egyetem\Szoftvertech 2\BABCSI\Osztályok\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
+C:\Users\Balazs\Documents\suli\2015-nyolcadik félév\sztgy\Osztalyok uj\WPF Ablakok\bin\Debug\WPF Ablakok.exe.config
+C:\Users\Balazs\Documents\suli\2015-nyolcadik félév\sztgy\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.exe
+C:\Users\Balazs\Documents\suli\2015-nyolcadik félév\sztgy\Osztalyok uj\WPF Ablakok\obj\Debug\WPF Ablakok.pdb
